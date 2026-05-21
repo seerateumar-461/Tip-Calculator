@@ -3,7 +3,7 @@
 No build step required. It's a single HTML file.
 
 
-# Step 1: Open cmd and go to repositorary path
+# Step 1: Open cmd and go to Repository path
 cd OneDrive\Documents\GitHub\Tip-Calculator
 
 # Step 2: Rum this command
